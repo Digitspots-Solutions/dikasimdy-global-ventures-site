@@ -1,0 +1,42 @@
+{
+  "businessName": "Dikasimdy Global Ventures",
+  "industry": "Oil and Gas",
+  "tone": "professional",
+  "tagline": "Powering Nigeria's Energy Future with Excellence and Reliability",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Dikasimdy Global Ventures: Your Trusted Partner in Nigeria's Oil and Gas Sector. Delivering premium petroleum products and energy solutions across Lagos and beyond. Experience reliability, quality, and service excellence that powers your business forward.",
+      "imagePrompt": "Wide cinematic shot of a modern Nigerian oil and gas facility at golden hour, sleek fuel storage tanks gleaming in warm sunlight, professional pipeline infrastructure, Nigerian flag visible, vibrant Lagos skyline in background, photorealistic, high-end corporate photography style, deep blues and warm oranges",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Dikasimdy Global Ventures is a leading oil and gas company proudly serving Lagos and the broader Nigerian market. Strategically located in Oriade LGA along the Badagry Express Way, we have established ourselves as a reliable supplier of quality petroleum products and energy solutions. Our commitment to operational excellence, safety standards, and customer satisfaction has made us a trusted name in Nigeria's dynamic energy sector. We understand the critical role energy plays in powering businesses and communities, which is why we maintain the highest standards in product quality, timely delivery, and professional service.",
+      "imagePrompt": "Professional Nigerian business team in safety gear and corporate attire standing confidently at an oil facility, diverse group, modern equipment visible, bright natural lighting, Lagos industrial setting, sharp focus, corporate documentary style photography",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Petroleum Product Supply: We provide premium quality diesel, petrol (PMS), kerosene (DPK), and other petroleum products to businesses, industries, and retail consumers across Lagos.\n\nBulk Distribution: Our efficient logistics network ensures timely bulk delivery of petroleum products to corporate clients, construction sites, manufacturing facilities, and large-scale operations.\n\nRetail Services: Visit our strategically located facility for convenient retail purchases with competitive pricing and excellent customer service.\n\nEnergy Consulting: We offer expert guidance on fuel management, cost optimization, and energy solutions tailored to your business needs.\n\nQuality Assurance: Every product meets international standards and undergoes rigorous quality control to ensure optimal performance for your operations.",
+      "imagePrompt": "Split view collage showing Nigerian oil and gas operations: fuel tanker truck on Lagos highway, close-up of fuel dispenser nozzle, warehouse with organized petroleum drums, professional worker inspecting equipment, vibrant commercial setting, photorealistic, professional industrial photography",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to partner with Lagos's trusted oil and gas provider? Dikasimdy Global Ventures is here to meet all your petroleum and energy needs. Whether you're a large corporate client requiring bulk supply or a retail customer, we're committed to delivering excellence every time. Reach out today for competitive pricing, reliable service, and the quality you deserve.\n\nVisit us at our facility along the Badagry Express Way or contact us directly. Our team is ready to serve you with professionalism and efficiency.",
+      "imagePrompt": "Modern Nigerian business office reception area with warm lighting, professional customer service desk, Lagos cityscape visible through windows, welcoming atmosphere, corporate photography style, clean lines, professional and approachable aesthetic",
+      "layout": "default"
+    }
+  ],
+  "contact": {
+    "phone": "+234 803 328 5177",
+    "email": "info@dikasimdy.com",
+    "address": "No. 2, Iyabo Akanusi, Zone 3, Checkpoint/Blacksignboard Okofilling, Garden Estate, Zone 2, Badagry Express Way, Oriade LGA, Lagos, Nigeria",
+    "whatsapp": "https://wa.me/2348033285177"
+  }
+}
